@@ -1,1 +1,6 @@
 @import "tailwindcss";
+
+#bg-img{
+    background-image: url(./assets/deal-bloom.png);
+    background-size: cover;
+}
